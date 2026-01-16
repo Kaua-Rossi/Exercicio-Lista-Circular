@@ -1,0 +1,15 @@
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\bin\Debug\net10.0\Exercicio-Lista-Encadeada.exe
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\bin\Debug\net10.0\Exercicio-Lista-Encadeada.deps.json
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\bin\Debug\net10.0\Exercicio-Lista-Encadeada.runtimeconfig.json
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\bin\Debug\net10.0\Exercicio-Lista-Encadeada.dll
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\bin\Debug\net10.0\Exercicio-Lista-Encadeada.pdb
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.AssemblyInfoInputs.cache
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.AssemblyInfo.cs
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.csproj.CoreCompileInputs.cache
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.dll
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\refint\Exercicio-Lista-Encadeada.dll
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.pdb
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.genruntimeconfig.cache
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\ref\Exercicio-Lista-Encadeada.dll
+C:\Users\kauar\MyDocuments\SublimeProjects\CSProjects\Exercicio-Lista-Encadeada\obj\Debug\net10.0\Exercicio-Lista-Encadeada.sourcelink.json
